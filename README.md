@@ -1,4 +1,5 @@
 # Hi, I'm Apoorva Metagudda 👋
+![Visitor Count](https://komarev.com/ghvc/?username=YOUR_GITHUB_ApoorvaMetagudda_HERE&color=blue&style=flat)
 
 Welcome to my space! I am a technical writer and developer focused on breaking down complex software engineering concepts into clear, beginner-friendly documentation.
 
